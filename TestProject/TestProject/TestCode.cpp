@@ -3,8 +3,8 @@ using namespace std;
 
 int main(void)
 {
-	cout << "테스트용";
-	cout << "수정";
+	cout << "Joodang";
+	cout << "I'm very tired";
 
 	return 0;
 }
